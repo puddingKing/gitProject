@@ -1,4 +1,4 @@
-// init test
+// init test2222
 console.log(1);
 console.log(2);
 console.log(5);
